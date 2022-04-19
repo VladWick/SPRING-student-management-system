@@ -6,7 +6,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+ 
 @Entity
 @Table(name = "students")
 public class Student {
@@ -25,9 +25,8 @@ public class Student {
 	private String email;
 	
 	public Student() {
-		
+		 
 	}
-	
 	public Student(String firstName, String lastName, String email) {
 		super();
 		this.firstName = firstName;
