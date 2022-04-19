@@ -1,7 +1,7 @@
 # SPRING-student-management-system
+<i>Web service</i> that show, add, update and remove students from the database
 Technologies used:
 <ul>
-  <li>Web service that show, add, update and remove students from the database</li>
   <li>Spring Boot </li>
   <li>Spring Web </li>
   <li>Hibernate + MySQL</li>
