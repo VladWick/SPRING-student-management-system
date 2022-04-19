@@ -5,18 +5,18 @@
 <br>
 <br>
 <div align="center">
-Home page
-![1](https://user-images.githubusercontent.com/91905024/163908426-a69bd08b-e55d-4b00-a531-738772c95277.png)
+Home page<br>
+![1](https://user-images.githubusercontent.com/91905024/163909203-68371223-6dba-44f1-be07-5d436c3c5547.png)
 <br>
 <hr>
-Student`s list from the database MySQL
-![2](https://user-images.githubusercontent.com/91905024/163908454-9b44224a-5b48-44f6-8fbd-75112cdae94b.png)
+Student`s list from the database MySQL<br>
+![2](https://user-images.githubusercontent.com/91905024/163909218-0a39da08-7a4e-4afb-af84-49363a2f2683.png)
 <br>
 <hr>
-Form for the creating new student
-![3](https://user-images.githubusercontent.com/91905024/163908457-7e3f7d27-fb51-41b6-880f-2bc45878867c.png)
+Form for the creating new student<br>
+![3](https://user-images.githubusercontent.com/91905024/163909230-832eec98-7d40-4c1b-a258-9627e8f18dde.png)
 <br>
 <hr>
-Form for the updating new student
-![4](https://user-images.githubusercontent.com/91905024/163908463-1723deb9-ed65-4b23-ab42-44fe6619486d.png)
+Form for the updating new student<br>
+![4](https://user-images.githubusercontent.com/91905024/163909234-c89aad0f-2aba-436f-8430-aea6ff66024c.png)
 </div>
