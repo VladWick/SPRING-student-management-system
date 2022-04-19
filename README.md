@@ -1,9 +1,8 @@
-# SPRING_StudentManagementSystem
-<br>Second SPRING study project.<br>
-<br>Add, update and remove students from database and provide GUI for that.<br>
-<br>Thymeleaf and Hybernate+MySQL was used.
-<br>
-<br>
+# SPRING-student-management-system
+Web service that show, add, update and remove students from the database<br>
+Spring Boot <br>
+Spring Web <br>
+Hibernate + MySQL <br>
 
 ![1](https://user-images.githubusercontent.com/91905024/163909203-68371223-6dba-44f1-be07-5d436c3c5547.png)
 <br>
