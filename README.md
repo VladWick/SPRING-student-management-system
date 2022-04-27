@@ -20,3 +20,9 @@ Technologies used:
 <hr>
 
 ![4](https://user-images.githubusercontent.com/91905024/163909234-c89aad0f-2aba-436f-8430-aea6ff66024c.png)
+
+<br>
+<hr>
+<h3>Swagger was added</h3>
+
+![Screenshot (444)](https://user-images.githubusercontent.com/91905024/165584223-fcd68e49-e1ac-4f90-b952-d77c7a8c0f52.png)
